@@ -23,8 +23,11 @@ There are 3 main scenarios:
 ## File Directory
 
 (XXX)_results:                        folders containing actual/hypothetical election results
+
 (Scenario)_SeatChange:                Main calculations files and visualisations on detailed results for each scenario
+
 GRC vs SMC seats:                     Parliament seats which are in GRC and SMCs over the years
+
 Results_Visualitsation_interaction:   Interactive dashboard to compare actual and hypothetical election results
 
 
