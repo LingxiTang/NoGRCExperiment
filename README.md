@@ -22,7 +22,7 @@ There are 3 main scenarios:
 
 ## File Directory
 
-(XXX)_results:                        folders containing actual/hypothetical election results
+(Scenario)_results:                        folders containing actual/hypothetical election results
 
 (Scenario)_SeatChange:                Main calculations files and visualisations on detailed results for each scenario
 
