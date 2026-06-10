@@ -1,5 +1,4 @@
-View actual vs hypothetical results here (run the cell after website loads):
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LingxiTang/NoGRCExperiment/HEAD?labpath=Results_Visualisation_interactive.ipynb)
+View actual vs hypothetical results here: https://lingxitang.github.io/projects/NoGRC/
 
 # NoGRCExperiment
 
@@ -24,11 +23,11 @@ There are 3 main scenarios:
 
 (Scenario)_results:                        folders containing actual/hypothetical election results
 
-(Scenario)_SeatChange:                Main calculations files and visualisations on detailed results for each scenario
+SeatChange:                Main calculations files and visualisations on detailed results for each scenario
 
 GRC vs SMC seats:                     Parliament seats which are in GRC and SMCs over the years
 
-Results_Visualitsation_interaction:   Interactive dashboard to compare actual and hypothetical election results
+Results_Visualisation_interaction:   Interactive dashboard to compare actual and hypothetical election results
 
 
 
