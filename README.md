@@ -1,4 +1,4 @@
-View actual vs hypothetical results here: https://lingxitang.github.io/projects/NoGRC/
+View data dashboard here: https://lingxitang.github.io/projects/NoGRC/
 
 # NoGRCExperiment
 
